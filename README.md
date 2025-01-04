@@ -1,9 +1,15 @@
 # Laravel Nova Masked Field
 
+> This is a fork for version 5.0 and cannot be merged into the original repo (there are no backward compatibility checks).
+> The only two things that was made was:
+> 
+> - Nova ^5.0 was added to the composer.json.
+> - Readme was modified.
+
 ## Installation
 
 ```sh
-composer require greg0x46/masked-field
+composer require zen0x7/masked-field
 ```
 
 ## Basic Usage
