@@ -1,6 +1,6 @@
 # Laravel Nova Masked Field
 
-> This is a fork for version 5.0 and cannot be merged into the original repo (there are no backward compatibility checks).
+> This is a fork for version 5.0.
 >
 > The only three things that was made was:
 > 
