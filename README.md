@@ -5,13 +5,12 @@
 > The only three things that was made was:
 > 
 > - Nova ^5.0 was added to the composer.json.
-> - Minimum stability required is stable.
 > - Readme was modified.
 
 ## Installation
 
 ```sh
-composer require zen0x7/masked-field
+composer require zen0x7/masked-field:dev-main
 ```
 
 ## Basic Usage
